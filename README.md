@@ -15,7 +15,9 @@ An other option is the calendar and you can have an overview of all the task in 
 - Glide
 - Calendar View
 
+# Download
 
+Download [APK](https://github.com/naemazam/Advance-To-Do-App/raw/main/ToDo.apk.1) file and install it on your android phone
 
 
 
